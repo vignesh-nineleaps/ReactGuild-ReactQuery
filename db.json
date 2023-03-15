@@ -1,0 +1,29 @@
+{
+  "mobiles": [
+    {
+      "id": 1,
+      "name": "iphone 14 pro",
+      "operatingSystem": "ios"
+    },
+    {
+      "id": 2,
+      "name": "Samsung S26 Ultra",
+      "operatingSystem": "Android"
+    },
+    {
+      "id": 3,
+      "name": "Nothing ",
+      "operatingSystem": "Android"
+    },
+    {
+      "id": 4,
+      "name": "Oneplus 11",
+      "operatingSystem": "Android"
+    },
+    {
+      "id": 5,
+      "name": "iphone 12",
+      "operatingSystem": "ios"
+    }
+  ]
+}
